@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="50.0248mm" height="54.9088mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 130.63 143.38"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil3 {fill:#F39631}
+    .fil1 {fill:#EF7F1A}
+    .fil2 {fill:#C85E1F}
+    .fil4 {fill:#B74B20}
+    .fil5 {fill:#2D92F0}
+    .fil0 {fill:#56AEFF}
+    .fil6 {fill:#72CAFF}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1593328969824">
+   <path class="fil0" d="M-0 118.6l5.39 0 0 24.78 -5.39 0 0 -24.78zm37.33 0l0 4.64 -6.15 0 0 20.14 -5.39 0 0 -20.14 -6.15 0 0 -4.64c5.9,0 11.8,0 17.7,0z"/>
+   <path class="fil1" d="M61.23 137.99l0 5.39 -8.81 0 -5.39 0 0 -5.39 0 -5.27 0 -4.64 0 -4.09 0 -5.39 5.39 0 8.81 0 0 5.39 -8.81 0 0 4.09 6.78 0 0 4.64 -6.78 0 0 5.27 8.81 0zm22.67 -13.02l-2.6 8.17 5.21 0 -2.6 -8.17zm-2.99 -6.36l5.98 0 8.51 24.78 -5.32 0 -2.23 -5.94 -7.91 0 -2.23 5.94 -5.32 0 8.51 -24.78zm27.31 0l5.39 0 5.82 10.08 5.81 -10.07 0 -0.01 0 0 0.05 0 5.34 0 0 24.78 -5.39 0 0 -15.85 0 -0.08 -5.81 10.07 -5.82 -10.08 0 15.94 -5.39 0 0 -24.78z"/>
+   <polygon class="fil2" points="106.52,88.31 64.05,14.84 55.23,14.96 101.99,95.86 "/>
+   <polygon class="fil1" points="64.05,14.84 106.52,88.31 119.78,95.86 64.36,0 "/>
+   <polygon class="fil3" points="64.05,14.84 64.36,0 55.23,14.96 "/>
+   <polygon class="fil4" points="119.78,95.86 106.52,88.31 101.99,95.86 "/>
+   <path class="fil5" d="M21.99 88.13l0.01 -0.01 -13.54 7.74c18.51,0 36.22,0 54.53,0l-4.59 -7.74 -36.39 0.01z"/>
+   <polygon class="fil0" points="53.97,80.68 35.01,80.68 22,88.12 21.99,88.13 58.38,88.12 "/>
+   <polygon class="fil5" points="64.29,62.83 53.97,80.68 58.38,88.12 65.06,76.76 "/>
+   <polygon class="fil0" points="65.06,76.76 58.38,88.12 62.98,95.86 63.14,95.58 63.21,95.58 63.21,95.46 73.17,78.22 "/>
+   <polygon class="fil6" points="65.06,76.76 73.17,78.22 68.73,70.52 64.29,62.83 "/>
+   <polygon class="fil6" points="50.19,39.07 50.19,39.07 50.19,39.07 50.19,39.07 63.62,31.19 54.73,31.19 46.22,31.19 "/>
+   <polygon class="fil5" points="50.19,39.07 22,88.12 35.01,80.68 63.62,31.19 "/>
+   <polygon class="fil0" points="22,88.12 50.19,39.07 46.22,31.19 45.83,31.19 8.45,95.86 "/>
+  </g>
+ </g>
+</svg>
